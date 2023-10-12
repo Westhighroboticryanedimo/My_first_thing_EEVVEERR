@@ -1,0 +1,7 @@
+echo "# My_first_thing_EEVVEERR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Westhighroboticryanedimo/My_first_thing_EEVVEERR.git
+git push -u origin main
